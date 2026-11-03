@@ -19,7 +19,7 @@ An end-to-end business intelligence solution developed to analyze sales performa
   * Top 10 Products and Customers rankings
   * Dynamic filtering using slicers and drill-throughs
 * **Documentation & Deliverables:**
-  * [View Project Report PDF](./Sales_Performance_Dashboard_Report.pdf) *(Replace with your exact file name if different)*
+  * [View Project Report PDF](./Sales_Performance_Dashboard_Report.pdf) 
   * [Download Presentation Deck (.pptx)](./Sales_Performance_Dashboard_Presentation.pptx)
 ---
 
