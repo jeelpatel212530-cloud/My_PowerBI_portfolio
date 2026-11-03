@@ -21,6 +21,9 @@ An end-to-end business intelligence solution developed to analyze sales performa
 * **Documentation & Deliverables:**
   * [View Project Report PDF](./Sales_Performance_Dashboard_Report.pdf) 
   * [Download Presentation Deck (.pptx)](./Sales_Performance_Dashboard_Presentation.pptx)
+
+  <img width="1252" height="779" alt="Screenshot 2026-11-03 at 3 59 13 PM" src="https://github.com/user-attachments/assets/f146bce0-1c6d-4ff0-9189-b2238ae8f5cb" />
+
 ---
 
 ## 📋 Practicals Index (01 – 15)
