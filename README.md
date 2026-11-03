@@ -12,12 +12,14 @@ An end-to-end business intelligence solution developed to analyze sales performa
 ### 📌 Project Overview
 * **Objective:** Build an interactive sales analytics dashboard to track KPIs, regional performance, and top-performing products.
 * **Key Tasks Performed:** Data import, cleaning via Power Query, star-schema data modeling, advanced DAX measures/calculated columns, interactive visual design, publishing, and scheduled data refresh.
+
 * **Expected Outcomes & Features:**
   * Executive KPI Cards (Total Sales, Profit, Orders)
   * Monthly Sales Trend Analysis
   * Category-wise & Region-wise Revenue Breakdown
   * Top 10 Products and Customers rankings
   * Dynamic filtering using slicers and drill-throughs
+  
 * **Documentation & Deliverables:**
   * [View Project Report PDF](./Sales_Performance_Dashboard_Report.pdf) 
   * [Download Presentation Deck (.pptx)](./Sales_Performance_Dashboard_Presentation.pptx)
@@ -52,7 +54,9 @@ Step-by-step lab exercises covering foundational to advanced Power BI concepts:
 * **Reporting & Deployment:** Power BI Desktop, Power BI Service, Custom Visuals, RLS, Mobile Views
 
 
-Note on Environment: This practical work was executed on a Mac system utilizing a Virtual Machine (VM) environment. Additionally, the accompanying step-by-step documentation PDFs were compiled and formatted with AI assistance, so minor visual variations or UI alignments may differ slightly from a standard native installation.
+🔺Note : This practical work was executed on a Mac system utilizing a Virtual Machine (VM Ware) environment. Additionally, the accompanying step-by-step documentation PDFs were compiled and formatted with AI assistance, so minor visual variations or UI alignments may differ slightly from a standard native installation.
 
-I would have loved to provide .pbix files as well but using a VM takes a significant load as well as space , along with few other 
-problems on the main system so I will be just showing you my pdf work as , as of now I already had uninstalled VM and PowerBI (.pbix)files. Sorry for the Inconvenience and Tnx for visiting the repository🤗. 
+🜂 Dev Confession — I would have loved to provide .pbix files as well but using a VM takes a significant load as well as space , along with few other problems on the main system so I will be just showing you my pdf work as , as of now I already had uninstalled VM and PowerBI (.pbix)files. Sorry for the Inconvenience and Tnx for visiting the repository🤗. 
+
+⟡ Zero-Budget Architecture — Built through tactical domain juggling and cycled evaluation licenses. High-end enterprise dashboarding on an absolute bootstrap budget.
+
