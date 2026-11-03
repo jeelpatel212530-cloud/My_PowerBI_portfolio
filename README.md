@@ -47,3 +47,9 @@ Step-by-step lab exercises covering foundational to advanced Power BI concepts:
 * **Data Prep & Modeling:** Power Query, Star Schema Design, Relationship Management
 * **Analytics & Calculations:** DAX Measures, Calculated Columns, Time Intelligence
 * **Reporting & Deployment:** Power BI Desktop, Power BI Service, Custom Visuals, RLS, Mobile Views
+
+
+Note on Environment: This practical work was executed on a Mac system utilizing a Virtual Machine (VM) environment. Additionally, the accompanying step-by-step documentation PDFs were compiled and formatted with AI assistance, so minor visual variations or UI alignments may differ slightly from a standard native installation.
+
+I would have loved to provide .pbix files as well but using a VM takes a significant load as well as space , along with few other 
+problems on the main system so I will be just showing you my pdf work as , as of now I already had uninstalled VM and PowerBI (.pbix)files. Sorry for the Inconvenience and Tnx for visiting the repository🤗. 
