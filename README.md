@@ -38,17 +38,13 @@ Step-by-step lab exercises covering foundational to advanced Power BI concepts:
 | **06** | **Database Connectivity** | Connect Power BI directly to a SQL database and load tables for analysis. | [View PDF](./Practical_06_Database_Connectivity.pdf) |
 | **07** | **Build a Data Model** | Create relationships between multiple tables and develop a robust data model. | [View PDF](./Practical_07_Build_a_Data_Model.pdf) |
 | **08** | **Measures and Calculated Columns** | Write DAX formulas and calculated columns to execute custom business logic. | [View PDF](./Practical_08_Measures_and_Calculated_Columns.pdf) |
-| **09** | **Budget Analysis Dashboard** | Integrate sales and budget data sources to compare actual performance with targets. | [View PDF](./Practical_09_Budget_Analysis_Dashboard.pdf) |
-| **10** | **Interactive Dashboard Design** | Design interactive layouts utilizing standard visualizations, slicers, and drill-throughs. | [View PDF](./Practical_10_Interactive_Dashboard_Design.pdf) |
+| **09** | **Budget Analysis Dashboard** | Integrate sales and budget data sources to compare actual performance with targets. | [View PDF](./Practical_09_and_10_Combined.pdf) |
+| **10** | **Interactive Dashboard Design** | Design interactive layouts utilizing standard visualizations, slicers, and drill-throughs. | [View PDF](./Practical_09_and_10_Combined.pdf) |
 | **11** | **Custom Visualizations** | Import and implement custom visuals from AppSource to enhance report storytelling. | [View PDF](./Practical_11_Custom_Visualizations.pdf) |
 | **12** | **High-Density Report Using DAX** | Build high-performance dashboards optimized via advanced DAX measures. | [View PDF](./Practical_12_High_Density_Report_DAX.pdf) |
 | **13** | **Live Connection and Security** | Connect to Analysis Services and configure Row-Level Security (RLS). | [View PDF](./Practical_13_Live_Connection_and_Security.pdf) |
 | **14** | **Real-Time Dashboard** | Publish streaming data and construct real-time monitoring dashboards. | [View PDF](./Practical_14_Real_Time_Dashboard.pdf) |
 | **15** | **Power BI REST API** | Explore the Power BI REST API to programmatically manage datasets and reports. | [View PDF](./Practical_15_Power_BI_REST_API.pdf) |
-
----
-
-## 🛠️ Core Skills & Tools
 * **Data Prep & Modeling:** Power Query, Star Schema Design, Relationship Management
 * **Analytics & Calculations:** DAX Measures, Calculated Columns, Time Intelligence
 * **Reporting & Deployment:** Power BI Desktop, Power BI Service, Custom Visuals, RLS, Mobile Views
