@@ -20,8 +20,7 @@ An end-to-end business intelligence solution developed to analyze sales performa
   * Dynamic filtering using slicers and drill-throughs
 * **Documentation & Deliverables:**
   * [View Project Report PDF](./Sales_Performance_Dashboard_Report.pdf) *(Replace with your exact file name if different)*
-  * [View Presentation Slides PDF](./Sales_Performance_Dashboard_Presentation.pdf)
-
+  * [Download Presentation Deck (.pptx)](./Sales_Performance_Dashboard_Presentation.pptx)
 ---
 
 ## 📋 Practicals Index (01 – 15)
